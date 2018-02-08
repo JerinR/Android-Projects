@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClass07</string>
+    <string name="desc">Descending</string>
+    <string name="asc">Ascending</string>
+    <string name="fileredApps">Filtered Apps: </string>
+    <string name="messageString">There are no filtered itunesApps to display.</string>
+</resources>
